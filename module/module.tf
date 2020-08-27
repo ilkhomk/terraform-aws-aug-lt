@@ -1,6 +1,6 @@
 module "vpc" {
   source  = "ilkhomk/vpc/aws"
-  version = "1.0.3"
+  version = "1.0.4"
   # insert the 9 required variables here
 
 region                      =   "us-east-1"
